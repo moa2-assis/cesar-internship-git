@@ -11,3 +11,5 @@ print("Feature 4 feita agorinha agorinha")
 print("Feature 5 cheia de gambiarra mas funcional")
 
 print("Feature 6 feita no vscode")
+
+print ("Feature 7")
